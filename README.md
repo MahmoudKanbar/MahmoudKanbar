@@ -1,6 +1,5 @@
-- 👋 Hi, I’m MahmoudKanbar aka el7ara
-- 👀 I’m interested in game development, computer graphics, AI and machine learning
-- 🌱 I’m currently learning machine learning at Damascus University
+- 👋 Hi, I’m MahmoudKanbar
+- 👀 I’m interested in game development 🎮, computer graphics 🛸 and artificial intelligence 🤖
 
 <!---
 MahmoudKanbar/MahmoudKanbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
